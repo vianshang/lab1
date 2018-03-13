@@ -1,0 +1,46 @@
+Script started on Wed Mar 14 00:55:28 2018
+]0;~
+[32mvian@DESKTOP-2VCEOPN [33m~[0m
+$ whoai[Kmi; pwd
+vian
+/home/vian
+]0;~
+[32mvian@DESKTOP-2VCEOPN [33m~[0m
+$ git config -l
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.email=stu121316@yahoo.com.tw
+user.name=vianshang
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+]0;~
+[32mvian@DESKTOP-2VCEOPN [33m~[0m
+$ git clone https:///[Kgithub.com/vianshang/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;~
+[32mvian@DESKTOP-2VCEOPN [33m~[0m
+$ exit
+
+Script done on Wed Mar 14 00:57:29 2018
