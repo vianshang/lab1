@@ -1,5 +1,5 @@
 #lab1
-homework 1 
+homework 1 PartB
 declare a main function to show a sequence
 declare "number" to save data 
 declare "a" represent the remainder of number%2
